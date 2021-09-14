@@ -6,14 +6,14 @@ El sistema de divide en varias partes de forma escalable, cada carpeta contine u
 
 ## Carpetas del repositorio
 
-### Detección de rostros
-Esta carpeta contine el algoritmo base para hacer una detección del rostro a partir de una imagen cargada
+  ### Detección de rostros
+    Esta carpeta contine el algoritmo base para hacer una detección del rostro a partir de una imagen cargada
 
-### Save face of picture
-En esta otra caprta se aumenta la funcionalidad de almacenar el rostro detectado en una imagen, en una carpeta adicional.
+  ### Save face of picture
+    En esta otra caprta se aumenta la funcionalidad de almacenar el rostro detectado en una imagen, en una carpeta adicional.
 
-### Face detection in video
-En esta se agrego la capacidad de extraer rostros de un video en vivo, o un video precargado; las imagenes de los rostros detectados seran almacenados en otra carpeta
+  ### Face detection in video
+    En esta se agrego la capacidad de extraer rostros de un video en vivo, o un video precargado; las imagenes de los rostros detectados seran almacenados en otra carpeta
 
 
 ## Modo de Ejecución
