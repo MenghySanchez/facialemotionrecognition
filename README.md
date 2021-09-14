@@ -4,7 +4,7 @@ Este es un pequeño programa para el reconocimiento facil usado Jupiter Lab y la
 
 El sistema de divide en varias partes de forma escalable, cada carpeta contine un funcionalidad que va aumentando su utilidad. 
 
-##Carpetas del repositorio
+## Carpetas del repositorio
 
 ### Detección de rostros
 Esta carpeta contine el algoritmo base para hacer una detección del rostro a partir de una imagen cargada
