@@ -13,7 +13,8 @@ El sistema de divide en varias partes de forma escalable, cada carpeta contine u
     En esta otra caprta se aumenta la funcionalidad de almacenar el rostro detectado en una imagen, en una carpeta adicional.
 
   ### Face detection in video
-    En esta se agrego la capacidad de extraer rostros de un video en vivo, o un video precargado; las imagenes de los rostros detectados seran almacenados en otra carpeta
+    En esta se agrego la capacidad de extraer rostros de un video en vivo, o un video precargado; 
+    las imagenes de los rostros detectados seran almacenados en otra carpeta
 
 
 ## Modo de Ejecución
