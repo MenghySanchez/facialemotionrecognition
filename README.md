@@ -4,6 +4,8 @@ Este es un pequeño programa para el reconocimiento facil usado Jupiter Lab y la
 
 El sistema de divide en varias partes de forma escalable, cada carpeta contine un funcionalidad que va aumentando su utilidad. 
 
+##Carpetas del repositorio
+
 ### Detección de rostros
 Esta carpeta contine el algoritmo base para hacer una detección del rostro a partir de una imagen cargada
 
@@ -17,7 +19,6 @@ En esta se agrego la capacidad de extraer rostros de un video en vivo, o un vide
 ### Modo de Ejecución
 
 Para su ejecución es necesario instalar Conda o en su version de Windows Anaconda3 : https://anaconda.org/ 
-tambien es necesario instalar la libreria OpenCV para anaconda, puedes usar la guia de Conda: https://anaconda.org/search?q=opencv , puedes seleccionar la version que se adapte a tu instalación
-yo utilice esta version: https://anaconda.org/conda-forge/opencv
+tambien es necesario instalar la libreria OpenCV para anaconda, puedes usar la guia de Conda: https://anaconda.org/search?q=opencv , puedes seleccionar la version que se adapte a tu instalación, yo utilice esta version: https://anaconda.org/conda-forge/opencv
 
 Una vez tengas instalado los requerimientos, ya podras descargar el repositorio y ejecutar el archivo con la extención: ipynb
